@@ -1,0 +1,17 @@
+{
+  "TransportKey": "",
+  "JoinType":4,
+  "DeviceDisplayName": "JustTea",
+  "OSVersion":  "Windows 6.1.2.3",
+  "CertificateRequest":  {
+     "Type":  "pkcs10",
+     "Data":  ""
+  },
+  "TargetDomain":  "lab.local",
+  "DeviceType":  "x64",
+  "Attributes":  {
+      "ReuseDevice":  true,
+      "ReturnClientSid":  true,
+      "SharedDevice":  false
+  }
+}
